@@ -40,7 +40,7 @@ This project solves these using data-driven analysis and visualization.
 
 - Time Period	- 2015 to 2018
 
-- Geography - Tamil Nadu
+- Geography - Tamil Nadu, India
 
 # Tools & Technologies 🛠️
 - Python (Pandas, NumPy)
@@ -124,8 +124,11 @@ This analysis can help businesses:
 
 
 Author
+
 Nidhi D
+
 Aspiring Data Analyst
+
 LinkedIn: https://www.linkedin.com/in/nidhi-dhoka-701743379
 
 
