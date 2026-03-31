@@ -26,30 +26,30 @@ Retail businesses often struggle to answer:
 This project solves these using data-driven analysis and visualization.
 
 # Dataset Overview 📊
--Total Records - 9,994
+- Total Records - 9,994
 
--Customers - 50
+- Customers - 50
 
--Categories - 7
+- Categories - 7
 
--Sub-Categories	- 23
+- Sub-Categories	- 23
 
--Cities	- 24
+- Cities	- 24
 
--Regions	- 5
+- Regions	- 5
 
--Time Period	- 2015 to 2018
+- Time Period	- 2015 to 2018
 
--Geography - Tamil Nadu
+- Geography - Tamil Nadu
 
 # Tools & Technologies 🛠️
--Python (Pandas, NumPy)
+- Python (Pandas, NumPy)
 
--Data Visualization (Matplotlib, Seaborn)
+- Data Visualization (Matplotlib, Seaborn)
 
--Machine Learning (Scikit-learn)
+- Machine Learning (Scikit-learn)
 
--Power BI (Interactive dashboards)
+- Power BI (Interactive dashboards)
 
 # Python Analysis Workflow 🔍
 1. Data Preparation
@@ -59,17 +59,17 @@ Built a Linear Regression model to predict profit.
 
 Performance:
 
--R² Score: 0.35
+- R² Score: 0.35
 
--RMSE: 196.88
+- RMSE: 196.88
 
--MAE: 159.37
+- MAE: 159.37
 
 Key Learnings:
 
--Sales is the strongest driver of profit
+- Sales is the strongest driver of profit
 
--Discounts have weak correlation → indicates inefficient pricing strategy
+- Discounts have weak correlation → indicates inefficient pricing strategy
 
 # Key Metrics 📌
 - Total Sales: ₹1.49 Cr+
