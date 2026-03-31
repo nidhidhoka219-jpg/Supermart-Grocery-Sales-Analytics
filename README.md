@@ -1,8 +1,8 @@
 # Supermart-Grocery-Sales-Analytics
 Transforming raw retail data into actionable business insights using Python, Machine Learning, and Power BI
-  📊 Analyzed ₹1.49 Cr+ in sales data across Tamil Nadu state.
-  📈 Identified high performing categories driving nearly 25% profit margin.
-  📍 Delivered city, region, and product level insights for strategic decision-making.
+  - 📊 Analyzed ₹1.49 Cr+ in sales data across Tamil Nadu state.
+  - 📈 Identified high performing categories driving nearly 25% profit margin.
+  - 📍 Delivered city, region, and product level insights for strategic decision-making.
 
 # Project Highlights
   - End-to-end pipeline: Data Cleaning → EDA → Dashboard → Insights → ML
@@ -125,8 +125,7 @@ This analysis can help businesses:
 
 
 
-Author
-
+# Author
 Nidhi D
 
 Aspiring Data Analyst
